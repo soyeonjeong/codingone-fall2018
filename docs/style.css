@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  font-family: 'Assistant', sans-serif;
+  padding: 30;
+}
+
+.redandbold { 
+	color: red; 
+	font-weight: 700;
+}
+
+a { 
+	font-weight: 700;
+	color: red; }
